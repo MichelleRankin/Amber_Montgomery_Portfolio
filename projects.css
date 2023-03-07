@@ -1,0 +1,461 @@
+
+/* Projects List Page */
+.projectcontainer1{
+    height: 31%;
+    width: 45%;
+    background-color: #483135;
+    position: absolute;
+    top: 25%;
+    left: 3%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer1 h1{
+    background-color: transparent;
+}
+.projectspicture1{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname1 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname1 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:62%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer2{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer2 h1{
+    background-color: transparent;
+}
+.projectspicture2{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname2 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname2 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:62%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer3{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 90%;
+    left: 3%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer3 h1{
+    background-color: transparent;
+}
+.projectspicture3{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname3 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname3 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 34%;
+    left:57%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer4{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer4 h1{
+    background-color: transparent;
+}
+.projectspicture4{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+    
+}
+.projectname4 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname4 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 34%;
+    left: 55%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer5{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 155%;
+    left: 3%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer5 h1{
+    background-color: transparent;
+}
+.projectspicture5{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname5 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname5 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:64%;
+    color:white;
+    text-align: center;
+    
+}
+
+.projectcontainer6{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 155%;
+    left: 50%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer6 h1{
+    background-color: transparent;
+}
+.projectspicture6{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname6 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname6 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:58%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer7{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 220%;
+    left: 3%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer7 h1{
+    background-color: transparent;
+}
+.projectspicture7{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname7 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname7 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 35%;
+    left:55%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer8{
+    height: 31%;
+    width: 45%;
+    background-color: 
+    #483135;
+    position: absolute;
+    top: 220%;
+    left: 50%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.projectcontainer8 h1{
+    background-color: transparent;
+}
+.projectspicture8{
+    width: 57%;
+    border-radius: 1%;
+    background: transparent;
+}
+.projectname8 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname8 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:58%;
+    color:white;
+    text-align: center;
+}
+
+/* All Projects Pages */
+.projectbackground{
+    height: 73vh;
+    width: 100vw;
+    background-color: #483135;
+    position: absolute;
+    top: 58%;
+    left: 0%;
+    padding-bottom: 10%;
+    overflow: hidden;
+}
+
+.ProjectsTitle1{
+    top: 25%;
+    left: 40%;
+    position: absolute;
+}
+.ProjectsTitle1 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle1 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle2{
+    top: 25%;
+    left: 33%;
+    position: absolute;
+}
+.ProjectsTitle2 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle2 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle3{
+    top: 25%;
+    left: 43%;
+    position: absolute;
+}
+.ProjectsTitle3 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle3 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle4{
+    top: 25%;
+    left: 37%;
+    position: absolute;
+}
+.ProjectsTitle4 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle4 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle5{
+    top: 25%;
+    left: 31%;
+    position: absolute;
+}
+.ProjectsTitle5 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle5 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle6{
+    top: 25%;
+    left: 28%;
+    position: absolute;
+}
+.ProjectsTitle6 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle6 h2{
+    font-size: 330%;
+}
+
+
+.Projectsinfobox{
+    top: 9%;
+    left: 17%;
+    position: absolute;
+    background-color: white;
+    height: 55vh;
+    width: 65vw;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    padding-left: 0%;
+}
+.Projectsinfobox p{
+    position: absolute;
+    top:18%;
+    left: 0%;
+    background-color: transparent;
+    font-size: 150%;
+    text-align: center;
+    padding: 5%;
+    
+}
+
+h1, h2 { 
+  margin: 0; 
+  text-shadow: 0 2px rgba(0,0,0,.5);
+}
+
+/* change the text */
+.textbuttonscontainer{
+    top: 9%;
+    left: 17%;
+    position: absolute;
+    background-color: lightgrey;
+    height: 10vh;
+    width: 65vw;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    overflow: hidden;
+}
+.textbuttonscontainer button{
+    padding: 6px 45px;
+    background-color: transparent;
+    transition: 0.5s;
+    margin: 1.60%;
+    align-content: center;
+    overflow: hidden;
+}

@@ -1,0 +1,98 @@
+* {
+    background-color: #f7dedf;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+    
+}
+.flowerleft{
+    height: 65%;
+    width: 20%;
+    top: -26%;
+    left: -2%;
+    position: absolute;
+    border-radius: 1%;
+    background: transparent;
+}
+.flowerright{
+    height: 65%;
+    width: 20%;
+    top: -26%;
+    left: 82%;
+    position: absolute;
+    border-radius: 1%;
+    background: transparent;
+}
+
+.flowerleft2{
+    height: 120%;
+    width: 30%;
+    top: 10%;
+    left: 2%;
+    position: absolute;
+    border-radius: 1%;
+    background: transparent;
+}
+.flowerright2{
+    height: 120%;
+    width: 30%;
+    top: 10%;
+    left: 70%;
+    position: absolute;
+    border-radius: 1%;
+    background: transparent;
+}
+
+.navbarcontainer{
+    display: flex;
+  
+    justify-content: center;
+    flex-direction:row;
+    height: 16vh;
+    width: 100vw;
+    background-color: 
+    #483135;
+    overflow: hidden;
+}
+.navbarcontainer button{
+    padding: 6px 45px;
+    background-color: 
+    #483135;
+    transition: 0.5s;
+    margin: 30px;
+    color:white;
+    overflow: hidden;
+}
+.navbarcontainer h1{
+    position: absolute;
+    font-size: 40px;
+    letter-spacing: 3px;
+    transition: 0.7s;
+    overflow: hidden;
+}
+.navbarcontainer button:hover{
+    font-size: 14px;
+    cursor: pointer;
+    overflow: hidden;
+}
+.navbarcontainer a{
+    overflow: hidden;
+    background-color: white
+}
+
+.bottomborder{
+    position: absolute;
+    height: 6vh;
+    width: 100vw;
+    background-color: #483135;
+    top: 280%;
+    overflow: hidden;
+}
+
+.bottomborder h1{
+    position: absolute;
+    background: transparent;
+    color: white;
+    
+}

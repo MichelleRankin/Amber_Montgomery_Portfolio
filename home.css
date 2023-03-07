@@ -1,0 +1,19 @@
+*{
+    overflow-y: hidden;
+}
+.main{
+    font-size: 300%;
+    background: transparent;
+}
+.main h1 {
+    top: 30%;
+    left: 15%;
+    position: absolute;
+    background: transparent;
+}
+.main h2 {
+    top: 60%;
+    left: 27%;
+    position: absolute;
+    background: transparent;
+}
