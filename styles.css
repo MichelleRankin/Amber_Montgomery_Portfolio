@@ -1,5 +1,5 @@
 * {
-    background-color: #f7dedf;
+    background-color: #D897A2;
     background-attachment: fixed;
     padding: 0%;
     margin: 0%;
@@ -54,15 +54,17 @@
     background-color: 
     #483135;
     overflow: hidden;
+    box-shadow: 5px 3px 7px 3px black;
 }
 .navbarcontainer button{
-    padding: 6px 45px;
-    background-color: 
-    #483135;
+    padding: 16px 45px;
+    background-color: #483135;
+    box-shadow: 5px 3px 7px 3px black;
+    margin-right: 25px;
+    margin-left: 25px;
     transition: 0.5s;
-    margin: 30px;
-    color:white;
-    overflow: hidden;
+    margin-top: 20px;
+    color: white;
 }
 .navbarcontainer h1{
     position: absolute;
@@ -70,6 +72,7 @@
     letter-spacing: 3px;
     transition: 0.7s;
     overflow: hidden;
+    box-shadow: 5px 3px 7px 3px black;
 }
 .navbarcontainer button:hover{
     font-size: 14px;
@@ -78,7 +81,7 @@
 }
 .navbarcontainer a{
     overflow: hidden;
-    background-color: white
+    background-color: #8C6168;
 }
 
 .bottomborder{
