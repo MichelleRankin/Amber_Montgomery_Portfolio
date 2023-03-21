@@ -2,18 +2,18 @@
     overflow-y: hidden;
 }
 .main{
-    font-size: 300%;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.main .header {
+    font-size: 8vh;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
     background: transparent;
 }
-.main h1 {
-    top: 30%;
-    left: 15%;
-    position: absolute;
-    background: transparent;
-}
-.main h2 {
-    top: 60%;
-    left: 27%;
-    position: absolute;
+.main .descriptor {
+   font-size: 6vh;
+   margin-top: -2%;
     background: transparent;
 }
