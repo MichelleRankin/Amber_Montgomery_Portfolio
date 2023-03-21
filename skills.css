@@ -1,7 +1,7 @@
 .skillsbox1{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 25%;
     left: 12%;

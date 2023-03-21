@@ -1,21 +1,29 @@
 .infocontainer{
-    height: 40vh;
     width: 60vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 28%;
     left: 20%;
-    padding-bottom: 10%;
-    box-shadow: 0px 0px 7px 3px black;
-    padding-bottom: 10%;
+    box-shadow: 0px 0px 7px 3px #815a61;
     border-radius: 1%;
-    overflow: hidden;
+    display: flex;
 }
-.infocontainer h2{
+.infocontainer .bio{
     background-color: transparent;
     content: center;
-    top: 25%;
-    left: -1%;
-    position: absolute;
+}
 
+.flowerleft3{
+    height: 50%;
+    width: 100%;
+    background: transparent;
+    margin-bottom: -15%;
+}
+.your-face{
+    height: 50%;
+    width: 100%;
+    background: transparent;
+    margin-bottom: -15%;
+    /* margin-top: -20%; */
+    /* add back margtop when using face image^^*/
 }

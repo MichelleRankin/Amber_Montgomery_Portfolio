@@ -1,3 +1,5 @@
+/* flexing all projects at once*/
+/* .allProjects{} */
 
 /* Projects List Page */
 .projectcontainer1{
@@ -6,7 +8,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 25%;
@@ -20,9 +22,9 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    left:66%;
+    left:62%;
     color:white;
-    text-align: center;
+    text-align:end;
 }
 .projectcontainer1 h1{
     background-color: transparent;
@@ -30,11 +32,11 @@
 .projectname1 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
     top: 40%;
     left:62%;
     color:white;
-    text-align: center;
+    text-align: end;
 }
 
 .projectcontainer2{
@@ -43,7 +45,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 25%;
@@ -53,7 +55,6 @@
     background-color: transparent;
 }
 .projectspicture2{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
 }
@@ -61,14 +62,14 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname2 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
     top: 40%;
     left:62%;
     color:white;
@@ -81,7 +82,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 90%;
@@ -91,7 +92,6 @@
     background-color: transparent;
 }
 .projectspicture3{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
 }
@@ -99,15 +99,14 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    top: 1%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname3 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
     top: 34%;
     left:57%;
     color:white;
@@ -120,7 +119,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 90%;
@@ -130,7 +129,6 @@
     background-color: transparent;
 }
 .projectspicture4{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
     
@@ -139,15 +137,14 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    top: 1%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname4 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size:3vh;
     top: 34%;
     left: 55%;
     color:white;
@@ -160,7 +157,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 155%;
@@ -170,7 +167,6 @@
     background-color: transparent;
 }
 .projectspicture5{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
 }
@@ -178,15 +174,14 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    top: 1%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname5 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
     top: 40%;
     left:64%;
     color:white;
@@ -200,7 +195,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 155%;
@@ -210,7 +205,6 @@
     background-color: transparent;
 }
 .projectspicture6{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
 }
@@ -218,15 +212,14 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    top: 1%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname6 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
     top: 40%;
     left:58%;
     color:white;
@@ -239,7 +232,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 220%;
@@ -249,7 +242,6 @@
     background-color: transparent;
 }
 .projectspicture7{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
 }
@@ -257,17 +249,16 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    top: 1%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname7 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
     top: 35%;
-    left:55%;
+    left:50%;
     color:white;
     text-align: center;
 }
@@ -278,7 +269,7 @@
     background-color: #483135;
     box-shadow: 7px 5px 15px 0px black;
     position: absolute;
-    padding: 3%;
+    padding: 1.75%;
     border-radius: 1%;
     overflow: hidden;
     top: 220%;
@@ -288,7 +279,6 @@
     background-color: transparent;
 }
 .projectspicture8{
-    width: 57%;
     border-radius: 1%;
     background: transparent;
 }
@@ -296,15 +286,15 @@
     background-color: transparent;
     position: absolute;
     font-size: 300%;
-    top: 1%;
-    left:66%;
+    left:62%;
     color:white;
     text-align: center;
 }
 .projectname8 h2{
     background-color: transparent;
     position: absolute;
-    font-size: 250%;
+    font-size: 3vh;
+    padding-right: -7%;
     top: 40%;
     left:58%;
     color:white;
@@ -431,7 +421,7 @@
 }
 
 h1, h2 { 
-  margin: 0; 
+ 
   text-shadow: 0 2px rgba(0,0,0,.5);
 }
 
@@ -456,4 +446,11 @@ h1, h2 {
     margin: 1.60%;
     align-content: center;
     overflow: hidden;
+}
+
+
+.images{
+    padding: 2%;
+    width: 40%;
+
 }
