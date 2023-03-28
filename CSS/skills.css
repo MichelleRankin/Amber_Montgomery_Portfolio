@@ -15,12 +15,14 @@
 }
 .skillsbox1 img{
     position: absolute;
-    left: -2%;
+    left: -27%;
+    top: 8%;
+    height: 28vh;
 }
 .skillsbox2{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 25%;
     left: 32%;
@@ -33,12 +35,14 @@
 }
 .skillsbox2 img{
     position: absolute;
-    left: -3%;
+    left: 5%;
+    top: 3%;
+    height: 29vh;
 }
 .skillsbox3{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 25%;
     left: 52%;
@@ -51,12 +55,14 @@
 }
 .skillsbox3 img{
     position: absolute;
-    left: -3%;
+    left: 5%;
+    top: 3%;
+    height: 29vh;
 }
 .skillsbox4{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 25%;
     left: 72%;
@@ -69,12 +75,21 @@
 }
 .skillsbox4 img{
     position: absolute;
-    left: -3%;
+    left: 9%;
+    top: 3%;
+    height: 26vh;
+}
+.skillsbox4 p{
+    position: absolute;
+    left: 23%;
+    top: 60%;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .skillsbox5{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 60%;
     left: 12%;
@@ -87,12 +102,21 @@
 }
 .skillsbox5 img{
     position: absolute;
-    left: -3%;
+    left: 7%;
+    top: 12%;
+    height: 27vh;
+}
+.skillsbox5 p{
+    position: absolute;
+    left: 14%;
+    top: -16%;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .skillsbox6{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 60%;
     left: 32%;
@@ -105,12 +129,14 @@
 }
 .skillsbox6 img{
     position: absolute;
-    left: -3%;
+    left: 5%;
+    top: 3%;
+    height: 29vh;
 }
 .skillsbox7{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 60%;
     left: 52%;
@@ -123,12 +149,14 @@
 }
 .skillsbox7 img{
     position: absolute;
-    left: -3%;
+    left: 19%;
+    top: 14%;
+    height: 23vh;
 }
 .skillsbox8{
     height: 10vh;
     width: 15vw;
-    background-color: white;
+    background-image: linear-gradient(to right, #c58a94, #d4a2aa, #c58a94);
     position: absolute;
     top: 60%;
     left: 72%;
@@ -141,5 +169,7 @@
 }
 .skillsbox8 img{
     position: absolute;
-    left: -3%;
+    left: -24%;
+    top: -3%;
+    height: 32vh;
 }
