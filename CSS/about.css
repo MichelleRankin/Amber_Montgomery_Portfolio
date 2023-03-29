@@ -14,7 +14,7 @@
 }
 
 .flowerleft3{
-    height: 50%;
+    height: 70%;
     width: 100%;
     background: transparent;
     margin-bottom: -15%;
@@ -26,4 +26,7 @@
     margin-bottom: -15%;
     /* margin-top: -20%; */
     /* add back margtop when using face image^^*/
+}
+.bio{
+    
 }
